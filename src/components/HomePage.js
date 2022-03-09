@@ -1,11 +1,11 @@
 import React, { PureComponent} from "react";
 import { Navbar, NavItem} from "react-bootstrap";
-import { HashLink as Link } from 'react-router-hash-link';
+import { HashLink} from "react-router-hash-link";
 import { withRouter } from 'react-router-dom';
 import "bootstrap/dist/css/bootstrap.min.css";
 import Marc from '../assets/marc2.png';
 import Projects from "./Projects";
-import BottomPage from "./BottomPage";
+import BottomPage from "./BottomPage";gi
 import Artwork from "./Artwork";
 import Resume from "./Resume"
 import {BsInstagram} from 'react-icons/bs'
