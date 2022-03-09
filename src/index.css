@@ -11,3 +11,212 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#navbar{
+position: sticky;
+
+}
+
+.marc-krivitzky{
+color: rgb(233, 230, 230);
+font-family: 'Open Sans Condensed', sans-serif;
+font-size: 70px;
+}
+
+.marc-container{
+position: relative;
+width: 100%;
+height: fit-content;
+padding: 8px;
+background-color: rgb(48, 46, 46);
+opacity: 70%;
+border-radius: 49% 51% 50% 50% / 0% 0% 100% 100% 
+}
+
+.front-end-developer{
+color: rgb(233, 230, 230);
+font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.marc-image{
+position: relative;
+border-radius: 50% 50% 50% 50% / 50% 50% 50% 50% 
+}
+
+.brief-container{
+position: relative;
+margin-right: auto;
+margin-left: auto;
+width: 600px;
+padding: 8px;
+background-color: rgb(48, 46, 46);
+opacity: 70%;
+border-radius: 50% 50% 50% 50% / 50% 50% 50% 50% 
+}
+
+.brief-on-homepage{
+position: relative;
+margin-right: auto;
+margin-left: auto;
+padding: 10px;
+color: rgb(233, 230, 230);
+font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.home-page-container {
+ background: linear-gradient(-90deg, #087cb6, #a365e6, #1094c4, #0cc79b);
+  background-size: 240% 240%;
+  animation: gradient-animation 12s ease infinite;
+}
+
+@keyframes gradient-animation {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+.projects-underline{
+font-family: 'Open Sans Condensed', sans-serif;
+font-weight: bold;
+}
+
+.project-titles{
+font-family: 'Open Sans Condensed', sans-serif;
+color: white;
+}
+
+.artwork-title{
+font-family: 'Open Sans Condensed', sans-serif;
+}
+
+#bottom-page-info{
+background-color: rgb(48, 46, 46);
+font-size: larger;
+font-family: 'Open Sans Condensed', sans-serif;
+color: white;
+border-radius: 27% 27% 10% 10% / 59% 59% 0% 0% ;
+opacity: 70%;
+}
+
+.contact{
+color: white;
+}
+
+.description-projects{
+font-family: 'Open Sans Condensed', sans-serif;
+color: white;
+
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap');
+
+
+.underline{
+position: relative;
+margin-left: auto;
+margin-right: auto;
+width: 80%;
+height: 10px;
+background-color: rgb(48, 46, 46);
+opacity: 70%;
+}
+
+
+.resume-title{
+font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.resume-summary{
+font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.resume-list{
+font-family: 'Open Sans Condensed', sans-serif;
+width: max-content;
+font-size: 16.74px;
+}
+
+.resume-work{
+font-family: 'Open Sans Condensed', sans-serif;
+font-weight: bold;
+}
+
+.resume-work-date{
+font-family: 'Open Sans Condensed', sans-serif;
+padding-right: 20%;
+text-align: right;
+font-weight: bold;
+}
+
+.resume-work-text{
+font-family: 'Open Sans Condensed', sans-serif;
+  
+}
+
+.underline-resume{
+
+position: relative;
+margin-left: auto;
+margin-right: auto;
+width: 97%;
+height: 4px;
+background-color: black;
+opacity: 70%;
+}
+
+.resume-list-work{
+position: relative;
+margin-left: auto;
+margin-right: auto;
+
+
+}
+
+.work-info{
+text-align: left;
+font-family: 'Open Sans Condensed', sans-serif;
+
+font-size:20px;
+
+}
+
+.resume-experience-title{
+position: relative;
+margin-left: auto;
+margin-right: auto;
+width: 90%;
+font-family: 'Open Sans Condensed', sans-serif;
+font-weight: bold;
+}
+
+.resume-experience-text{
+position: relative;
+margin-left: auto;
+margin-right: auto;
+width: 90%;
+font-family: 'Open Sans Condensed', sans-serif;
+padding-left: 8%;
+text-align: left;
+
+}
+
+.resume-experience-text-title{
+padding-left: 13%;
+text-align: left;
+font-family: 'Open Sans Condensed', sans-serif;
+font-weight: bold;
+}
+
+li{
+color: black;
+}
+
+
+
