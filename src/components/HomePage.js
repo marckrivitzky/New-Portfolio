@@ -5,7 +5,7 @@ import { withRouter } from 'react-router-dom';
 import "bootstrap/dist/css/bootstrap.min.css";
 import Marc from '../assets/marc2.png';
 import Projects from "./Projects";
-import BottomPage from "./BottomPage";gi
+import BottomPage from "./BottomPage";
 import Artwork from "./Artwork";
 import Resume from "./Resume"
 import {BsInstagram} from 'react-icons/bs'
